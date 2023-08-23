@@ -10,4 +10,4 @@ app.get("/getData", (req, res)=>{
     res.send("Response from server: Hello");
 });
 
-app.listen(5000, ()=>console.log(`App is running on port $(PORT)`));
+app.listen(5000, ()=>console.log(`App is running on port ${PORT}`));
