@@ -3,7 +3,7 @@ A simple React JS frontend with Node JS backend deployed on Kubernetes.
 
 
 Docker cmnds used - <br/>
-Dockerfiles in /backend and /frontend
+Dockerfiles in /backend and /frontend. <br/>
 docker build -t sharmaakshat37/frontendimg:latest . <br/>
 docker build -t sharmaakshat37/backendimg:latest . <br/>
 
