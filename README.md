@@ -1,12 +1,11 @@
 # k8s-react-node-deployment
 A simple React JS frontend with Node JS backend deployed on Kubernetes.
 
-Docker cmnds used -
 
-docker build -t sharmaakshat37/frontendimg:latest .
-<br/>
-docker build -t sharmaakshat37/backendimg:latest .
-<br/>
+Docker cmnds used - <br/>
+Dockerfiles in /backend and /frontend
+docker build -t sharmaakshat37/frontendimg:latest . <br/>
+docker build -t sharmaakshat37/backendimg:latest . <br/>
 
 Kubernetes cmnds used -
 <br/>
